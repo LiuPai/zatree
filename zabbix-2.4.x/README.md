@@ -4,7 +4,7 @@ Zatree for zabbix 2.4.x 安装
 
 1：下载文件
 
-git clone https://github.com/spide4k/zatree.git zatree
+git clone https://github.com/LiuPai/zatree.git zatree
 
 2：复制相关文件
 
