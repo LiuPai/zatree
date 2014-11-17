@@ -411,9 +411,9 @@
             <a href="https://github.com/spide4k/zatree" target="_blank">Zatree</a> version 1.1.0 for zabbix 2.4.x, 技术支持：
             <a href="http://weibo.com/spider4k" target="_blank">@南非蜘蛛</a>
             <a href="http://weibo.com/chinahanna" target="_blank">@hanna</a>
-            <a href="http://weibo.com/678236656" target="_blank">@lijian</a> ，
-	    <a href="liupai_work@163.com" target="_blank">LiuPai</a>
-            <a href="http://me.alipay.com/spider4k">点击这里</a>可以对作者进行小额捐款
+            <a href="http://weibo.com/678236656" target="_blank">@lijian</a>
+	    <a href="http://github.com/LiuPai" target="_blank">LiuPai</a>，
+	    <a href="http://me.alipay.com/spider4k">点击这里</a>可以对作者进行小额捐款
         </div>
         </br></br></br></br></br>
     </body>
