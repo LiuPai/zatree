@@ -14,7 +14,7 @@ ZABBIX_PATH=/var/www/zabbix
 
 复制相关文件和目录
 
-cp -rf zatree/zabbix-2.2.x $ZABBIX_PATH/zatree
+cp -rf zatree/zabbix-2.4.x $ZABBIX_PATH/zatree
 
 cd $ZABBIX_PATH/zatree/addfile
 
@@ -114,7 +114,7 @@ http://weibo.com/chinahanna
 
 http://weibo.com/678236656
 
-http://liupai_work@163.com
+liupai_work@163.com
 
 小额捐款
 ==================================
