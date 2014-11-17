@@ -1,5 +1,5 @@
 
-Zatree for zabbix 2.2.x 安装
+Zatree for zabbix 2.4.x 安装
 ==================================
 
 1：下载文件
